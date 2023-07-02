@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @leachy14
-- 👀 I’m interested in most things computer science
-- 🌱 I’m currently learning Data structures using Java
-- 💞️ I’m looking to collaborate on anything I may be able to contribute to 
-- 📫 How to reach me 
+My name is Christopher. I like computers and photography 
+Always looking to learn more
+reach out
 Email: christopher@leach.codes
 
 <!---
